@@ -2,6 +2,86 @@
 <thaifood>
     <foodID>001</foodID>
     <FoodNAME>ข้าวรวมมิตร</FoodName>
+    <price> 100บาท </price>
+    </thaifood>
+    </Food>
+
+    <food>
+<thaifood>
+    <foodID>002</foodID>
+    <FoodNAME>ข้าวกะเพราไข่ดาว</FoodName>
+    <price> 60บาท </price>
+    </thaifood>
+    </Food>
+
+    <food>
+<thaifood>
+    <foodID>003</foodID>
+    <FoodNAME>ข้าวผัดธรรมดา</FoodName>
+    <price> 60บาท </price>
+    </thaifood>
+    </Food>
+
+    <food>
+<thaifood>
+    <foodID>004</foodID>
+    <FoodNAME>ข้าวรผัดเครื่องแกง</FoodName>
+    <price> 60บาท </price>
+    </thaifood>
+    </Food>
+
+    <food>
+<thaifood>
+    <foodID>005</foodID>
+    <FoodNAME>ข้าวไข่เจียว</FoodName>
+    <price> 50บาท </price>
+    </thaifood>
+    </Food>
+
+    <food>
+<thaifood>
+    <foodID>006</foodID>
+    <FoodNAME>ข้าวราดแกง</FoodName>
+    <price> 50บาท </price>
+    </thaifood>
+    </Food>
+
+    <food>
+<thaifood>
+    <foodID>006</foodID>
+    <FoodNAME>ข้าวหมูทอด</FoodName>
+    <price> 50บาท </price>
+    </thaifood>
+    </Food>
+
+    <food>
+<thaifood>
+    <foodID>007</foodID>
+    <FoodNAME>ข้าวข้าวผัดหมูทอดกระเทียม</FoodName>
+    <price> 50บาท </price>
+    </thaifood>
+    </Food>
+
+    <food>
+<thaifood>
+    <foodID>008</foodID>
+    <FoodNAME>ข้าวผัดปู</FoodName>
+    <price> 50บาท </price>
+    </thaifood>
+    </Food>
+
+    <food>
+<thaifood>
+    <foodID>009</foodID>
+    <FoodNAME>ราดหน้ารวมมิตร</FoodName>
+    <price> 60บาท </price>
+    </thaifood>
+    </Food>
+
+    <food>
+<thaifood>
+    <foodID>010</foodID>
+    <FoodNAME>ก๊วยเตี๋ยว</FoodName>
     <price> 50บาท </price>
     </thaifood>
     </Food>
